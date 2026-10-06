@@ -1,0 +1,26 @@
+id,feedback,theme
+1,Order arrived much later than the estimated delivery time.,Delivery
+2,Food was delayed by almost an hour and tracking was not accurate.,Delivery
+3,Order was cancelled after waiting for a long time.,Cancellation
+4,Delivery partner was not assigned for a long time.,Delivery
+5,Items were missing from my order.,Order accuracy
+6,Customer support kept giving automated replies instead of solving the issue.,Customer support
+7,I couldn't get a proper response when my order was cancelled.,Customer support
+8,Payment went through but the order status was confusing.,Payment
+9,Extra charges appeared at checkout.,Pricing
+10,Food arrived late even though the restaurant was nearby.,Delivery
+11,Support took too long to respond to my complaint.,Customer support
+12,The order was cancelled and I was charged a cancellation fee.,Cancellation
+13,One item disappeared from my cart/order because of availability changes.,Order accuracy
+14,Refund process was confusing and took too long.,Refund
+15,Delivery tracking didn't match the actual location of the rider.,Tracking
+16,Food was delivered incomplete and support didn't properly resolve it.,Order accuracy
+17,Final bill was higher than expected because of additional fees.,Pricing
+18,I couldn't easily reach a human support agent.,Customer support
+19,The app showed one delivery estimate but the order arrived much later.,Delivery
+20,Payment/cancellation information was unclear.,Payment
+21,Restaurant accepted the order and later cancelled it.,Cancellation
+22,Support closed the conversation before my problem was solved.,Customer support
+23,The food arrived late and was no longer fresh.,Delivery
+24,Missing-item complaint required too many steps to resolve.,Order accuracy
+25,I was unhappy because the final price included charges I didn't expect.,Pricing
